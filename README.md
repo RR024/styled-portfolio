@@ -5,7 +5,7 @@ A modern, responsive, and fast personal portfolio website designed to showcase p
 ## ✨ Live Preview
 
 **Website:** 
-**GitHub Repository:** https://github.com/RR024/RR-portfolio
+**GitHub Repository:** https://github.com/RR024/styled-portfolio
 
 ---
 
